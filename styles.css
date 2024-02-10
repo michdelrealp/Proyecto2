@@ -1,0 +1,38 @@
+body {
+  background-color: #34A853; /* Color verde */
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+  color: #FFF;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  background-color: #FFF;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 5px 0;
+}
